@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you find this project helpful or interesting, don't forget to **star** the repository and **share** it with others! 
 
-![Star and Share](https://media.giphy.com/media/3o7aD4v3mHJVN0uJUA/giphy.gif)
+![Star and Share](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
