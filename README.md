@@ -10,7 +10,7 @@
 
 This is a **Spring Boot** project designed to demonstrate the simplicity of creating RESTful web services and microservices. Spring Boot makes it easy to build **production-ready** applications with minimal effort! 🌱
 
-![Spring Boot GIF](https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## ✨ Features
 
