@@ -67,3 +67,28 @@ src
  └── test
      └── java
          └── com.example.demo  # Unit tests
+```
+
+
+## ✅ Running Tests
+
+To run the tests, simply execute:
+
+```bash
+mvn test
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to **fork** this repository, make improvements, and submit a **pull request**. Let's make this project better together! 🌟
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## ⭐ If you liked this project, please consider giving it a star! 🌟
+
+If you find this project helpful or interesting, don't forget to **star** the repository and **share** it with others! 
+
+![Star and Share](https://media.giphy.com/media/3o7aD4v3mHJVN0uJUA/giphy.gif)
+
